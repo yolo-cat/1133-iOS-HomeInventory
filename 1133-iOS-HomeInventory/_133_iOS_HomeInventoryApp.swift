@@ -11,7 +11,7 @@ import SwiftUI
 struct _133_iOS_HomeInventoryApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            InventoryListView()
         }
     }
 }
